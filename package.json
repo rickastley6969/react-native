@@ -2,7 +2,7 @@
   "name": "spectacle-boilerplate",
   "version": "1.0.1",
   "homepage":"https://rickastley6969.github.io/",
-  "description": "ReactJS Powered Presentation Framework",
+  "description": "ReactJS Powered Presentation Framework ",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf dist",
